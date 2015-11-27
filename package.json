@@ -1,0 +1,19 @@
+{
+  "name": "victory-partition",
+  "version": "0.0.1",
+  "description": "partition component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-partition.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-partition/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-partition",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
